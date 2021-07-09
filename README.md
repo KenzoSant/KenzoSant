@@ -1,4 +1,17 @@
-### Hi there 👋
+# <h1><font color="#66CDAA">Mateus Kenzo</font></h1>
+
+ • Técnico de T.I (2020)
+ • Front-end & Back-end 😄
+ • CSS, HTML, JavaScrip e PHP
+ • Java, Python, C++ e SQL 
+
+## <font color="#5F9EA0">repositórios:</font>
+>- OnePlayer 
+>- La-pascaline
+
+## <font color="#5F9EA0">Contatos:</font>
+> <div><a href="https://www.linkedin.com/in/mateus-kenzo-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+> <a href = "mailto:mateuskenzo_santos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a></div>
 
 <!--
 **KenzoSant/KenzoSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
