@@ -1,9 +1,9 @@
 # <h1><font color="#66CDAA">Mateus Kenzo</font></h1>
 
- • Técnico de T.I (2020)
- • Front-end & Back-end 😄
- • CSS, HTML, JavaScrip e PHP
- • Java, Python, C++ e SQL 
+ • Técnico de T.I (2020) <br>
+ • Front-end & Back-end 😄 <br>
+ • CSS, HTML, JavaScrip e PHP <br>
+ • Java, Python, C++ e SQL <br>
 
 ## <font color="#5F9EA0">repositórios:</font>
 >- OnePlayer 
