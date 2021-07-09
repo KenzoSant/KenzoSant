@@ -1,4 +1,5 @@
-# ![#66CDAA](https://via.placeholder.com/15/66CDAA/000000?text=+) Mateus Kenzo
+# Mateus Kenzo
+
 
  • Técnico de T.I (2020) <br>
  • Front-end & Back-end 😄 <br>
