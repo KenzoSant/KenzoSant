@@ -16,7 +16,7 @@
 > <a href = "mailto:mateuskenzo_santos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a></div>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=KenzoSAnt&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoSant&layout=compact&langs_count=16&theme=onedark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoSant&layout=compact&langs_count=16&theme=dark)
 <!--
 **KenzoSant/KenzoSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
