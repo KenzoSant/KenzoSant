@@ -7,8 +7,8 @@
  • Java, Python, C++ e SQL <br>
 
 ## Repositórios:
->- OnePlayer 
->- La-pascaline
+>- OnePlayer | Curso_PHP
+>- La-pascaline | Python_Escola
 >- KenzoSant
 
 ## Contatos:
