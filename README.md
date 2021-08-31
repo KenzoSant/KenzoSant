@@ -8,7 +8,7 @@
 
 ## Repositórios:
 >- OnePlayer | Curso_PHP
->- La-pascaline | Python_Escola
+>- La-pascaline 
 >- KenzoSant
 
 ## Contatos:
