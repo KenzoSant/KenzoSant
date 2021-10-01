@@ -2,7 +2,6 @@
 
 
  • Técnico de T.I (2020) <br>
- • Front-end & Back-end 😄 <br>
  • CSS, HTML, JavaScript e PHP <br>
  • Java, Python, C++ e SQL <br>
 
