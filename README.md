@@ -8,7 +8,7 @@
 ## Repositórios:
 >- OnePlayer | Curso_JS
 >- La-pascaline | Kiwi-Frog
->- KenzoSant
+>- KenzoSant | Kanban
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateus-kenzo-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
