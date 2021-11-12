@@ -7,8 +7,8 @@
 
 ## Repositórios:
 >- 🎮OnePlayer | Curso_JS
->- 🖩La-pascaline | 🥝Kiwi-Frog
->- KenzoSant | Kanban
+>- 🧮La-pascaline | 🥝Kiwi-Frog
+>- KenzoSant | 📄Kanban
 >- 🎅Natalina | ☕ Coffee
 
 ## Contatos:
