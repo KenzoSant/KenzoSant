@@ -6,9 +6,9 @@
  • Java, Python, C++ e SQL <br>
 
 ## Repositórios:
->- 🎮OnePlayer | Curso_JS
+>- KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
->- KenzoSant | 📄Kanban
+>- 🎮OnePlayer| 📄Kanban
 >- 🎅Natalina | :sushi:Restaurant
 >- :japanese_goblin:Alura-Samurai
 
