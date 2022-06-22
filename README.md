@@ -12,6 +12,7 @@
 >- 🎅Natalina | :sushi:Restaurant
 >- :japanese_goblin:Alura-Samurai | :pretzel:Bakery
 >- :books:Studying | :duck:Kenzo
+>- :house_with_garden:Homed
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateus-kenzo-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
