@@ -9,11 +9,11 @@
 >- KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
 >- 🎮OnePlayer| 📄Kanban
->- 🎅Natalina | :sushi:Restaurant
+>- <!--🎅Natalina--> :school:Fatec | :sushi:Restaurant
 >- :japanese_goblin:Alura-Samurai | :pretzel:Bakery
 >- :books:Studying | :duck:Kenzo
 >- :technologist:Portfólio | :house_with_garden:Homed
->- :school:Fatec
+>- 
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateus-kenzo-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
