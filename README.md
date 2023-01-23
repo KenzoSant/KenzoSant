@@ -8,9 +8,9 @@
 ## Repositórios:
 >- KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
->- 🎮OnePlayer| 📄Kanban
->- <!--🎅Natalina--> :school:Fatec | :sushi:Restaurant
->- :japanese_goblin:Alura-Samurai | :pretzel:Bakery
+>- 🎮OnePlayer| <!--🎅Natalina--> :school:Fatec 
+>- :sushi:Restaurant | :japanese_goblin:Alura-Samurai
+>- :pretzel:Bakery
 >- :books:Studying | :duck:Kenzo
 >- :technologist:Old-Portfólio | :house_with_garden:Homed
 >- :ocean: Kenzo-Portfolio
