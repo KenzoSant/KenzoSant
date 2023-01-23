@@ -16,7 +16,7 @@
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateus-kenzo-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-> <a href = "mailto:mateuskenzo_santos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> <br> <a href="https://discord.gg/Bp8dMhh6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+> <a href = "mailto:mateuskenzo_santos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> <br> <a href="https://discord.gg/Bp8dMhh6" target="_blank"><img src="https://img.shields.io/badge/Discord-MP6zq7XDgA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 > </div>
 
 ## Linguagens: 
