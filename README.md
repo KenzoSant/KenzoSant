@@ -6,12 +6,11 @@
  • Java, Python, C++ e SQL <br>
 
 ## Repositórios:
->- KenzoSant | Curso_JS
+>- :duck: KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
 >- 🎮OnePlayer| <!--🎅Natalina--> :school:Fatec 
 >- :sushi:Restaurant | :japanese_goblin:Alura-Samurai
->- :pretzel:Bakery
->- :books:Studying | :duck:Kenzo
+>- :pretzel:Bakery | :books:Studying 
 >- :technologist:Old-Portfólio | :house_with_garden:Homed
 >- :ocean: Kenzo-Portfolio
 
