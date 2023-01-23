@@ -3,7 +3,7 @@
 >- Análise e Desenvolvimento de Sistemas (2025) <br>
 >- Técnico de T.I (2020) <br>
 >- CSS, HTML, JavaScript <br>
->- Java, Python, C++ e SQL <br>
+>- Java, Python, C/C++ e SQL <br>
 
 ## Repositórios:
 >- :duck: KenzoSant | Curso_JS
@@ -22,10 +22,12 @@
 ## Linguagens: 
 > <div style="display: inline_block"><br>
 > <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-> <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 > <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+> <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 > </div>
 <br>
 
