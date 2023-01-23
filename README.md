@@ -1,8 +1,9 @@
 # Mateus Kenzo
 
 
+ • Análise e Desenvolvimento de Sistemas (2025) <br>
  • Técnico de T.I (2020) <br>
- • CSS, HTML, JavaScript e PHP <br>
+ • CSS, HTML, JavaScript <br>
  • Java, Python, C++ e SQL <br>
 
 ## Repositórios:
