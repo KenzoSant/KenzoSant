@@ -8,7 +8,7 @@
 ## Repositórios:
 >- :duck: KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
->- 🎮OnePlayer| <!--🎅Natalina--> :school:Fatec 
+>- 🎅Natalina | :school:Fatec 
 >- :sushi:Restaurant | :japanese_goblin:Alura-Samurai
 >- :pretzel:Bakery | :books:Studying 
 >- :technologist:Old-Portfólio | :house_with_garden:Homed
