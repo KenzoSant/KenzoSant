@@ -2,7 +2,7 @@
 
 >- Análise e Desenvolvimento de Sistemas (2025) <br>
 >- Técnico de T.I (2020) <br>
->- CSS, HTML, JavaScript <br>
+>- CSS, HTML, JavaScript, React Js <br>
 >- Java, Python e C <br>
 
 ## Repositórios:
@@ -14,6 +14,7 @@
 >- :technologist:Old-Portfólio | :house_with_garden:Homed
 >- :ocean: Kenzo-Portfolio | :robot: ListaDeC
 >- :boxing_glove: StreetFighter | :page_facing_up: Cadastro
+>- :green_salad: Ecommerce-Fitness
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateuskenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
