@@ -14,7 +14,7 @@
 >- :technologist:Old-Portfólio | :house_with_garden:Homed
 >- :ocean: Kenzo-Portfolio | :robot: ListaDeC
 >- :boxing_glove: StreetFighter | :page_facing_up: Cadastro
->- :green_salad: Ecommerce-Fitness
+>- :green_salad: Ecommerce-Fitness | :airplane: Travel
 
 ## Contatos:
 > <div><a href="https://www.linkedin.com/in/mateuskenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
