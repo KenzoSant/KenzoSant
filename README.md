@@ -3,7 +3,7 @@
 >- https://kenzo.vercel.app/
 >- Análise e Desenvolvimento de Sistemas (2025) <br>
 >- Técnico de T.I (2020) <br>
->- CSS, HTML, JavaScript, React Js <br>
+>- CSS, HTML, JavaScript, NodeJS e React Js <br>
 >- Java, Python e C <br>
 
 ## Projeto atual:
