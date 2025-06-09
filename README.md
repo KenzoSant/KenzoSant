@@ -6,6 +6,10 @@
 >- CSS, HTML, JavaScript, React Js <br>
 >- Java, Python e C <br>
 
+## Projeto atual:
+>- :stew: TOKASHI
+>- https://github.com/KenzoSant/TGII-Food
+
 ## Repositórios:
 >- :duck: KenzoSant | Curso_JS
 >- 🧮La-pascaline | ☕ Coffee
@@ -28,6 +32,7 @@
 > <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 > <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+> <img align="center" alt="NODE" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 > <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
