@@ -6,7 +6,7 @@
 >- CSS, HTML, JavaScript, NodeJS e React Js <br>
 >- Java, Python e C <br>
 
-## Projeto atual:
+## Ultimo Projeto:
 >- :stew: TOKASHI
 >- https://github.com/KenzoSant/TGII-Food
 
