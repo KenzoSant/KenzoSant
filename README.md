@@ -7,7 +7,7 @@
 >- Java, Python e C <br>
 
 ## Ultimo Projeto:
->- :stew: YUMO
+>- YUMO
 >- https://github.com/KenzoSant/YUMO
 
 ## Repositórios:
