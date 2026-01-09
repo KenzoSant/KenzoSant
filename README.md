@@ -7,8 +7,8 @@
 >- Java, Python e C <br>
 
 ## Ultimo Projeto:
->- :stew: TOKASHI
->- https://github.com/KenzoSant/TGII-Food
+>- :stew: YUMO
+>- https://github.com/KenzoSant/YUMO
 
 ## Repositórios:
 >- :duck: KenzoSant | Curso_JS
