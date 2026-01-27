@@ -7,8 +7,8 @@
 >- Java, Python e C <br>
 
 ## Ultimo Projeto:
->- YUMO
->- https://github.com/KenzoSant/YUMO
+>- Sytudio
+>- https://sytudio.onrender.com/
 
 ## Repositórios:
 >- :duck: KenzoSant | Curso_JS
