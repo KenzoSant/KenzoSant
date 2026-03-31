@@ -42,16 +42,11 @@ Busco evoluir constantemente através de projetos práticos, com foco em perform
 
 ## 📂 Projetos
 
-- 🎨 **Sytudio** | 🖌️ YUMO  
-- 🥗 **Ecommerce-Fitness** | ✈️ Travel  
-- 🥊 **StreetFighter** | 📄 Cadastro  
-- 🌊 **Kenzo-Portfolio** | 🤖 ListaDeC  
-- 👨‍💻 **Old-Portfólio** | 🏡 Homed  
-- 🥨 **Bakery** | 📚 Studying  
-- 🍣 **Restaurant** | 👹 Alura-Samurai  
-- 🎅 **Natalina** | 🏫 Fatec  
-- 🧮 **La-pascaline** | ☕ Coffee  
-- 🦆 **Curso_JS**
+- 🎨 **Sytudio** | 🖌️ YUMO | 🥗 **Ecommerce-Fitness** | ✈️ Travel  
+- 🥊 **StreetFighter** | 📄 Cadastro | 🌊 **Kenzo-Portfolio** | 🤖 ListaDeC  
+- 👨‍💻 **Old-Portfólio** | 🏡 Homed | 🥨 **Bakery** | 📚 Studying  
+- 🍣 **Restaurant** | 👹 Alura-Samurai | 🎅 **Natalina** | 🏫 Fatec  
+- 🧮 **La-pascaline** | ☕ Coffee | 🦆 **Curso_JS**
 
 ---
 
