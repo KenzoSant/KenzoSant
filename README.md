@@ -1,58 +1,77 @@
-# Mateus Kenzo
+# 👋 Mateus Kenzo
 
->- https://kenzos.vercel.app/
->- Análise e Desenvolvimento de Sistemas (2025) <br>
->- Técnico de T.I (2020) <br>
->- CSS, HTML, JavaScript, NodeJS e React Js <br>
->- Java, Python e C <br>
+💻 Desenvolvedor Full Stack em formação  
+🎓 Análise e Desenvolvimento de Sistemas (FATEC - 2025)  
+🛠️ Técnico em Informática (2020)  
 
-## Ultimo Projeto:
->- Sytudio
->- https://sytudio.onrender.com/
+🌐 Portfólio: https://kenzos.vercel.app/
 
-## Repositórios:
->- :duck: KenzoSant | Curso_JS
->- 🧮La-pascaline | ☕ Coffee
->- 🎅Natalina | :school:Fatec 
->- :sushi:Restaurant | :japanese_goblin:Alura-Samurai
->- :pretzel:Bakery | :books:Studying 
->- :technologist:Old-Portfólio | :house_with_garden:Homed
->- :ocean: Kenzo-Portfolio | :robot: ListaDeC
->- :boxing_glove: StreetFighter | :page_facing_up: Cadastro
->- :green_salad: Ecommerce-Fitness | :airplane: Travel
->- :art: Sytudio | :paintbrush: YUMO
+---
 
-## Contatos:
-> <div><a href="https://www.linkedin.com/in/mateuskenzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
-> <a href = "mailto:mateuskenzo_santos@hotmail.com" ><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> <br> <a href="https://discord.gg/MP6zq7XDgA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a> 
-> </div>
+## 🚀 Sobre mim
 
-## Linguagens: 
-> <div style="display: inline_block"><br>
-> <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-> <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-> <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-> <img align="center" alt="NODE" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-> <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-> </div>
-<br>
+Sou desenvolvedor com foco em desenvolvimento web, com experiência na criação de aplicações full stack utilizando JavaScript, React e Node.js. Tenho conhecimento em integração de APIs, banco de dados e boas práticas de desenvolvimento.
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoSant&layout=compact&langs_count=16&theme=dark)
+Busco evoluir constantemente através de projetos práticos, com foco em performance, escalabilidade e experiência do usuário.
 
-<!--
-**KenzoSant/KenzoSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Node" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
+
+---
+
+## 🔥 Projeto em destaque
+
+### 🎨 Sytudio - E-commerce Full Stack  
+🔗 https://sytudio.onrender.com/
+
+---
+
+## 📂 Projetos
+
+- 🎨 **Sytudio** | 🖌️ YUMO  
+- 🥗 **Ecommerce-Fitness** | ✈️ Travel  
+- 🥊 **StreetFighter** | 📄 Cadastro  
+- 🌊 **Kenzo-Portfolio** | 🤖 ListaDeC  
+- 👨‍💻 **Old-Portfólio** | 🏡 Homed  
+- 🥨 **Bakery** | 📚 Studying  
+- 🍣 **Restaurant** | 👹 Alura-Samurai  
+- 🎅 **Natalina** | 🏫 Fatec  
+- 🧮 **La-pascaline** | ☕ Coffee  
+- 🦆 **Curso_JS**
+
+---
+
+## 📊 Estatísticas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoSant&layout=compact&langs_count=10&theme=dark)
+
+---
+
+## 📬 Contato
+
+<div> 
+<a href="https://www.linkedin.com/in/mateuskenzo" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> <br>
+
+<a href="mailto:mateuskenzo_santos@hotmail.com">
+<img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
