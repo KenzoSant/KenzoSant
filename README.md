@@ -1,6 +1,6 @@
 # Mateus Kenzo
 
->- https://kenzo.vercel.app/
+>- https://kenzos.vercel.app/
 >- Análise e Desenvolvimento de Sistemas (2025) <br>
 >- Técnico de T.I (2020) <br>
 >- CSS, HTML, JavaScript, NodeJS e React Js <br>
