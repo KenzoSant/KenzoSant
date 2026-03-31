@@ -52,8 +52,9 @@ Busco evoluir constantemente através de projetos práticos, com foco em perform
 
 ## 📊 Estatísticas
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KenzoSant&theme=codestackr&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+<br><br>
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoSant&layout=compact&langs_count=10&theme=dark)
-
 ---
 
 ## 📬 Contato
