@@ -17,9 +17,6 @@ Busco evoluir constantemente através de projetos práticos, com foco em perform
 ---
 
 ## 🧠 Tecnologias
-
-## 🧠 Tecnologias
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="35"/>
